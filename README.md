@@ -14,7 +14,7 @@ A small Python script that draws the famous Barnsley fern fractal using Turtle g
 1. Make sure you have [Python 3](https://www.python.org/downloads/) installed.  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/barnsley-fern.git
+   git clone https://github.com/Wasserpuncher/barnsley-fern.git
    cd barnsley-fern
 ## Usage
 python3 barnsley_fern.py
